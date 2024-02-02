@@ -1,0 +1,24 @@
+body{
+    padding: 20px;
+    overflow-x: hidden;
+ }
+ .principal{
+    background-color: black;
+    color: white;
+     width:97% ;
+     height: 570px;
+     padding: 30px;
+     text-align: center;
+   box-shadow: inset;
+ }
+ 
+ .font-style{
+     font-size: 3rem;
+     font-family: 'Single Day', cursive;
+ }
+ .font-style02{
+    background-color: black;
+    color: white;
+    text-align: left;
+   font-size: 2rem;
+ }
